@@ -16,9 +16,9 @@
   - [Installation of a LAMP web server on Amazon Linux](https://github.com/Marybright007/Week-4-LAB-3)
   - [Hosting WordPress blog on Amazon Linux](https://github.com/Marybright007/Week-4-LAB-4)
  
-<h2> Soft Graphics Designs </h2>
+<h2> Soft Graphics Design </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [The Chronicles of The Challengers Questionn](https://github.com/Marybright007/The-Chronicles-of-TCQ)
 
 <h2> 🤳 Connect with me:</h2>
 
