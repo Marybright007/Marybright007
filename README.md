@@ -10,7 +10,7 @@
   - [Understanding VM images, sizes, and VM power states](https://github.com/Marybright007/Week-2-LAB-2)
   - [Managing Packages and Services on a Linux VM (Azure or AWS)](https://github.com/Marybright007/Week-2-LAB-3)
   - [GCP Compute Engine](https://github.com/Marybright007/Week-3-LAB-1)
-  - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
+  - [Apache Web Server Installation](https://github.com/Marybright007/Week-3-LAB-2)
   - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
   - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
   - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
