@@ -12,7 +12,7 @@
   - [GCP Compute Engine](https://github.com/Marybright007/Week-3-LAB-1)
   - [Apache Web Server Installation](https://github.com/Marybright007/Week-3-LAB-2)
   - [Creating a VPC working with an Amazon CLI](https://github.com/Marybright007/Week-4-LAB-1)
-  - [Launching an Amazon linux instance using AWS CLI](https://github.com/Marybright007/Week-4-LAB-2)
+  - [Launched an Amazon linux instance using AWS CLI](https://github.com/Marybright007/Week-4-LAB-2)
   - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
   - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
   - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
