@@ -14,9 +14,8 @@
   - [Creating a VPC working with an Amazon CLI](https://github.com/Marybright007/Week-4-LAB-1)
   - [Launched an Amazon linux instance using AWS CLI](https://github.com/Marybright007/Week-4-LAB-2)
   - [Installation of a LAMP web server on Amazon Linux](https://github.com/Marybright007/Week-4-LAB-3)
-  - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
-  - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
-
+  - [Hosting WordPress blog on Amazon Linux](https://github.com/Marybright007/Week-4-LAB-4)
+ 
 <h2> Soft Graphics Designs </h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
