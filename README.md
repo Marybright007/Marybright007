@@ -5,7 +5,7 @@
   - [Creation of a Linux virtual machine with the Azure CLI](https://github.com/Marybright007/Week-1-LAB-1)
   - [Managing Linux VMs with the Azure CLI](https://github.com/Marybright007/Week-1-LAB-2)
   - [Managing Azure disks with the Azure CLI](https://github.com/Marybright007/Week-1-LAB-3)
-  - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
+  - [Create and use an SSH public-private key pair for Linux VMs in Azure](https://github.com/Marybright007/Week-1-LAB-4)
   - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
   - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
   - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
