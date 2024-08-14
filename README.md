@@ -18,7 +18,7 @@
  
 <h2> Soft Graphics Design </h2>
 
-- [The Chronicles of The Challengers Questionn](https://github.com/Marybright007/The-Chronicles-of-TCQ)
+- [The Chronicles of The Challengers Question](https://github.com/Marybright007/The-Chronicles-of-TCQ)
 
 <h2> 🤳 Connect with me:</h2>
 
