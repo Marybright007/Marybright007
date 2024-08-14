@@ -6,7 +6,7 @@
   - [Managing Linux VMs with the Azure CLI](https://github.com/Marybright007/Week-1-LAB-2)
   - [Managing Azure disks with the Azure CLI](https://github.com/Marybright007/Week-1-LAB-3)
   - [Creating and using an SSH public-private key pair for Linux VMs in Azure](https://github.com/Marybright007/Week-1-LAB-4)
-  - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
+  - [Port 80 for web traffic](https://github.com/Marybright007/Week-2-LAB-1)
   - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
   - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
   - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
