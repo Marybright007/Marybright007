@@ -2,8 +2,10 @@
 <h2>👨‍💻 Linux Cloud Fundamentals Projects:</h2>
 
 - <b>HTML/CSS - Linux Essentials</b>
-  - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/joshmadakor1/Algorithms-Practice)
-
+  - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
+  - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
+  - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
+  - [Creation and connection of instances on AWS, Azure and GCP](https://github.com/Marybright007/Week-1-LAB-1)
 
 <h2> Soft Graphics Designs </h2>
 
