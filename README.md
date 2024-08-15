@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marybright! 
+<h1>Hi, 👋 I'm Marybright! 
 <h2>👨‍💻 Linux Cloud Fundamental Projects:</h2>
 
 - <b>HTML/CSS - Linux Essentials</b>
