@@ -1,5 +1,5 @@
 <h1>Hi, 👋 I'm Marybright! 
-<h2>👨‍💻 Linux Cloud Fundamental Projects:</h2>
+<h2>👩‍💻 Linux Cloud Fundamental Projects:</h2>
 
 - <b>HTML/CSS - Linux Essentials</b>
   - [Creation of a Linux virtual machine with the Azure CLI](https://github.com/Marybright007/Week-1-LAB-1)
